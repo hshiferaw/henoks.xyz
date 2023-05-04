@@ -13,9 +13,9 @@ export async function getStaticProps() {
   return { props: { reviews, currentlyReading } }
 }
 
-export default function Recommends(reviews) {
-  let reviewsData = reviews['reviews']
-  let reviewsData1 = reviews['currentlyReading']
+export default function Recommends(props) {
+  let reviewsData = props['reviews']
+  let reviewsData1 = props['currentlyReading']
 
   return (
     <>
