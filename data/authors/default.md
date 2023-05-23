@@ -1,6 +1,6 @@
 ---
 name: Henok Shiferaw
-avatar: /static/images/avator.jpeg
+avatar: /static/images/me.jpeg
 occupation: Primary Patent Examiner
 company: USPTO
 email: henok@henoks.xyz
